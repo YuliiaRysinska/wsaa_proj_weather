@@ -13,9 +13,9 @@ openweathermap.org/.
 
 
 3) register on https://home.openweathermap.org and put api_key  to ".env" file
-4) create css code  in  "static folder"
-5) create html code in  "templates folder"
-6) creating weather function in "weather.py" file
+4) create css code (style.css)  in  "static folder"
+5) create html code (index.html, weather.html) in  "templates folder"
+6) creating weather server with functions in "weather.py" file
 7) lunch Flask with code in "server.py"
 8) setting production mode: pip install waitress -> pip freeze > requirements.txt
 9) creating "weather.py" to get API

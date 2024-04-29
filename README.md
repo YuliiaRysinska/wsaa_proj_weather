@@ -11,7 +11,7 @@ openweathermap.org/.
 >py -m pip install -U pip 
 >pip freeze > requirements.txt
 
-2) creating git ignore file to hide ".venv", ".env"
+
 3) register on https://home.openweathermap.org and put api_key  to ".env" file
 4) create css code  in  "static folder"
 5) create html code in  "templates folder"

@@ -16,7 +16,7 @@ openweathermap.org/.
 4) create css code (style.css)  in  "static folder"
 5) create html code (index.html, weather.html) in  "templates folder"
 6) creating weather server with functions in "weather.py" file
-7) lunch Flask with code in "server.py"
+7) lanch Flask with code in "server.py"
 8) setting production mode: pip install waitress -> pip freeze > requirements.txt
 9) creating "weather.py" to get API
 10) lunch app in browser
